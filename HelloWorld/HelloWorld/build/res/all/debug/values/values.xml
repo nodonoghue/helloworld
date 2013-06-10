@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="Blackout">#000000</color>
+    <color name="Main_Activity_BackColor">#0b5676</color>
+    <color name="Main_Activity_TextColor">#ffffff</color>
+    <color name="accent_green">#97e08f</color>
+    <color name="sa_green">#14a804</color>
+    <color name="stacked_green">#118504</color>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <string name="aboutApp">New Text</string>
+    <string name="about_app">This is a simple "Hello World" app with a little extra in calling this about app "settings" activity.  Hit back to see "Hello World" again.</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Dynamic Content Prototype</string>
+    <string name="main_activity_title">Sample Dynamically Generated ListView</string>
+
+    <style name="ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/Blackout</item>
+        <item name="android:backgroundStacked">@color/stacked_green</item>
+        <item name="android:backgroundSplit">@color/sa_green</item>
+    </style>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+    </style>
+
+</resources>

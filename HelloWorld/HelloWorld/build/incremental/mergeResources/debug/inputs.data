@@ -1,0 +1,22 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1369149061962 381 b129b276e01126de5b3b753572ac67cbfc19454c C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\values-v14\styles.xml
+1369150387819 257 d759cdbf65c98ae27e01a492b0f708061be0a83b C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\values\dimens.xml
+1370713043934 4096 98039940929fca0b4a409a0ff818c96f5c0a4283 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\drawable-hdpi\Thumbs.db
+1370713071690 7680 2ff499c6a8eded73a1bfb9172512e427e296815c C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\drawable-xxhdpi\Thumbs.db
+1370713941250 889 31faee876e672d2fc72c1c5377a1cf116f573c9b C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\drawable-mdpi\ic_launcher.png
+1369149061960 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\values-v11\styles.xml
+1370713061210 4608 a1b2465d868e94b1c0c8703b056cb77a26986629 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\drawable-xhdpi\Thumbs.db
+1370713941269 5443 00e1251e39ecc9e96c08b478b9caa001229addc4 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\drawable-xxhdpi\ic_launcher.png
+1370710288682 1067 c489b24ac1baf787b8ecf88cc91bbc5a9953b4e2 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\layout\activity_main.xml
+1369149062196 244 045ff451db7cd8e61285502b8c9bbf7405f2078d C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\menu\main.xml
+1370713053606 3072 fe7c1154e6dae4832f4e2476d0e0912e455f66a8 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\drawable-mdpi\Thumbs.db
+1370713941259 2638 fa5b54a9d49f676cb59a9682fe1d9147d947f725 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\drawable-xhdpi\ic_launcher.png
+1370714008040 477 49a507517977e8a54272f29e5e12b94fbe16e247 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\values\strings.xml
+1370711202543 674 acc85a9d133aaa9306c99a7c408915dbbc4c68d8 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\layout\activity_about.xml
+1370713941240 1711 18cc85a3a81daa0067981cb67cb3e8d836dff44e C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\drawable-hdpi\ic_launcher.png
+1370712135990 370 095c943b8cec60b315144a613c3cb4b0ff276f09 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\values\colors.xml
+1369149062203 254 25b6404e44acb50c82590049639d4fb5fefbac8e C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\values-sw720dp-land\dimens.xml
+1369149062202 181 84de2797380184d8b39af6f829afb092fb956173 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\values-sw600dp\dimens.xml
+1370712135986 991 509e60be0b07ad636e3802a71dcf654e13c1ee31 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\values\styles.xml

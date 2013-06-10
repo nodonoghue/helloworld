@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_about"
+                path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\layout\activity_about.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\values\colors.xml"
+                qualifiers="" >
+                <color name="stacked_green" >#118504
+                </color>
+                <color name="sa_green" >#14a804
+                </color>
+                <color name="accent_green" >#97e08f
+                </color>
+                <color name="Blackout" >#000000
+                </color>
+                <color name="Main_Activity_BackColor" >#0b5676
+                </color>
+                <color name="Main_Activity_TextColor" >#ffffff
+                </color>
+            </file>
+            <file
+                path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <string name="aboutApp" >New Text
+                </string>
+
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="about_app" >This is a simple "Hello World" app with a little extra in calling this about app "settings" activity.  Hit back to see "Hello World" again.
+                </string>
+                <string name="main_activity_title" >Sample Dynamically Generated ListView
+                </string>
+                <string name="app_name" >Dynamic Content Prototype
+                </string>
+            </file>
+            <file
+                path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="ActionBar"
+                    parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse" >
+                    <item name="android:background">
+@color/Blackout
+                    </item>
+                    <item name="android:backgroundStacked">
+@color/stacked_green
+                    </item>
+                    <item name="android:backgroundSplit">
+@color/sa_green
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+                    <item name="android:actionBarStyle">
+@style/ActionBar
+                    </item>
+                </style>
+            </file>
+            <file
+                path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\values-sw600dp\dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\src\debug\res" />
+    </dataSet>
+
+</merger>

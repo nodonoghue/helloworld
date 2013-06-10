@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Dynamic Content Prototype
+    </string>
+    <string name="action_settings" >Settings
+    </string>
+    <string name="main_activity_title" >Sample Dynamically Generated ListView
+    </string>
+    <string name="about_app" >This is a simple "Hello World" app with a little extra in calling this about app "settings" activity.  Hit back to see "Hello World" again.</string>
+
+</resources>

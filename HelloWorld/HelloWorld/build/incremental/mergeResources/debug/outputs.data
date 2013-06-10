@@ -1,0 +1,14 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370714013543 1705 38819efb9a5dc7fd603706916285b2d30d73f368 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\build\res\all\debug\values\values.xml
+1370713611811 224 3bee0d9a6f0efbaf11495ad45fdeb8f71aee62e8 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\build\res\all\debug\values-v14\values.xml
+1370713611449 244 045ff451db7cd8e61285502b8c9bbf7405f2078d C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\build\res\all\debug\menu\main.xml
+1370713611442 1067 c489b24ac1baf787b8ecf88cc91bbc5a9953b4e2 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\build\res\all\debug\layout\activity_main.xml
+1370713611441 674 acc85a9d133aaa9306c99a7c408915dbbc4c68d8 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\build\res\all\debug\layout\activity_about.xml
+1370713994755 1711 18cc85a3a81daa0067981cb67cb3e8d836dff44e C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\build\res\all\debug\drawable-hdpi\ic_launcher.png
+1370713994755 5443 00e1251e39ecc9e96c08b478b9caa001229addc4 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1370713994755 2638 fa5b54a9d49f676cb59a9682fe1d9147d947f725 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\build\res\all\debug\drawable-xhdpi\ic_launcher.png
+1370713994755 889 31faee876e672d2fc72c1c5377a1cf116f573c9b C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1370713611813 210 c41731f5631a90fa989588ef97e9476fc244b438 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\build\res\all\debug\values-v11\values.xml
+1370713611814 130 90e37035f35f83953c491e73e930b7aea297a472 C:\Users\Nathan\AndroidStudioProjects\HelloWorld\HelloWorld\build\res\all\debug\values-sw720dp-land\values.xml
